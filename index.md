@@ -7,10 +7,10 @@ Originally from Guangxi, China, I was born in 1999 and am currently studying at 
 My research interests are in deep learning, and the results of recent research are as follows
 
 1、
-2、
+
 ### Honorary awards
 1、
-2、
+
 
 ### My undergraduate school
 From 2017 to 2021, I studied at Tianjin University of Technology
